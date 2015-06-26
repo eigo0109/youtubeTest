@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "GTLYouTube.h"
 
 @interface ViewController : UIViewController
 
